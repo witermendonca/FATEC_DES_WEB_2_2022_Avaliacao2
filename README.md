@@ -1,6 +1,6 @@
 # Avaliacao desenvolvimento web II  Orientacao à Objetos
 
-## Projeto para cadastro de Alunos Fatec Araras. Onde teremos as informações:
+## Projeto para cadastro de Alunos Fatec Araras.
 
 ### 1- Área de login
 - Usuario já cadastrado: witer;
